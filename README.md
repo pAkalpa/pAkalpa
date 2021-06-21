@@ -16,6 +16,12 @@ I am interested in, Machine Learning and develop Electronics, Robotics and IoT D
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#12193](https://github.com/zero-to-mastery/start-here-guidelines/pull/12193) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+2. ❗️ Opened issue [#1753](https://github.com/ritwickdey/vscode-live-server/issues/1753) in [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
+3. 💪 Opened PR [#39690](https://github.com/firstcontributions/first-contributions/pull/39690) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+4. ❌ Closed PR [#1](https://github.com/pAkalpa/startup-page/pull/1) in [pAkalpa/startup-page](https://github.com/pAkalpa/startup-page)
+5. 💪 Opened PR [#1](https://github.com/pAkalpa/startup-page/pull/1) in [pAkalpa/startup-page](https://github.com/pAkalpa/startup-page)
+<!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
 

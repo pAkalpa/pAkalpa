@@ -16,10 +16,10 @@ I am interested in, Machine Learning and develop Electronics, Robotics and IoT D
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#329](https://github.com/client69/Hacktober-Open/pull/329) in [client69/Hacktober-Open](https://github.com/client69/Hacktober-Open)
-2. 💪 Opened PR [#71](https://github.com/Samiullah-Kalhoro/hacktoberfest_21/pull/71) in [Samiullah-Kalhoro/hacktoberfest_21](https://github.com/Samiullah-Kalhoro/hacktoberfest_21)
-3. ❌ Closed PR [#69](https://github.com/pAkalpa/WDD_CW/pull/69) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
-4. 💪 Opened PR [#12193](https://github.com/zero-to-mastery/start-here-guidelines/pull/12193) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+1. 💪 Opened PR [#342](https://github.com/Rishabh062/Hacktoberfest2021/pull/342) in [Rishabh062/Hacktoberfest2021](https://github.com/Rishabh062/Hacktoberfest2021)
+2. 💪 Opened PR [#329](https://github.com/client69/Hacktober-Open/pull/329) in [client69/Hacktober-Open](https://github.com/client69/Hacktober-Open)
+3. 💪 Opened PR [#71](https://github.com/Samiullah-Kalhoro/hacktoberfest_21/pull/71) in [Samiullah-Kalhoro/hacktoberfest_21](https://github.com/Samiullah-Kalhoro/hacktoberfest_21)
+4. ❌ Closed PR [#69](https://github.com/pAkalpa/WDD_CW/pull/69) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
 5. ❗️ Opened issue [#1753](https://github.com/ritwickdey/vscode-live-server/issues/1753) in [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
 <!--END_SECTION:activity-->
 

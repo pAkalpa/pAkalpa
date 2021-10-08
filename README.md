@@ -16,9 +16,9 @@ I am interested in, Machine Learning and develop Electronics, Robotics and IoT D
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#69](https://github.com/pAkalpa/WDD_CW/pull/69) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
-2. ❌ Closed PR [#1](https://github.com/pAkalpa/Cricket-Selection-Program/pull/1) in [pAkalpa/Cricket-Selection-Program](https://github.com/pAkalpa/Cricket-Selection-Program)
-3. 💪 Opened PR [#1](https://github.com/pAkalpa/Cricket-Selection-Program/pull/1) in [pAkalpa/Cricket-Selection-Program](https://github.com/pAkalpa/Cricket-Selection-Program)
+1. 💪 Opened PR [#329](https://github.com/client69/Hacktober-Open/pull/329) in [client69/Hacktober-Open](https://github.com/client69/Hacktober-Open)
+2. 💪 Opened PR [#71](https://github.com/Samiullah-Kalhoro/hacktoberfest_21/pull/71) in [Samiullah-Kalhoro/hacktoberfest_21](https://github.com/Samiullah-Kalhoro/hacktoberfest_21)
+3. ❌ Closed PR [#69](https://github.com/pAkalpa/WDD_CW/pull/69) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
 4. 💪 Opened PR [#12193](https://github.com/zero-to-mastery/start-here-guidelines/pull/12193) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
 5. ❗️ Opened issue [#1753](https://github.com/ritwickdey/vscode-live-server/issues/1753) in [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
 <!--END_SECTION:activity-->

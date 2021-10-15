@@ -17,10 +17,10 @@ I am interested in, Machine Learning and develop Electronics, Robotics and IoT D
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#34](https://github.com/mad003/Sorting-Algos/issues/34) in [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos)
-2. 💪 Opened PR [#121](https://github.com/zero-to-mastery/Canvaz/pull/121) in [zero-to-mastery/Canvaz](https://github.com/zero-to-mastery/Canvaz)
-3. 💪 Opened PR [#87](https://github.com/anupam-kumar-krishnan/Competitive---Programming-DSA-450/pull/87) in [anupam-kumar-krishnan/Competitive---Programming-DSA-450](https://github.com/anupam-kumar-krishnan/Competitive---Programming-DSA-450)
-4. 💪 Opened PR [#81](https://github.com/anupam-kumar-krishnan/Competitive---Programming-DSA-450/pull/81) in [anupam-kumar-krishnan/Competitive---Programming-DSA-450](https://github.com/anupam-kumar-krishnan/Competitive---Programming-DSA-450)
-5. 💪 Opened PR [#15](https://github.com/me-AC/helloworld-GCI/pull/15) in [me-AC/helloworld-GCI](https://github.com/me-AC/helloworld-GCI)
+2. 🗣 Commented on [#34](https://github.com/mad003/Sorting-Algos/issues/34) in [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos)
+3. 💪 Opened PR [#121](https://github.com/zero-to-mastery/Canvaz/pull/121) in [zero-to-mastery/Canvaz](https://github.com/zero-to-mastery/Canvaz)
+4. 💪 Opened PR [#87](https://github.com/anupam-kumar-krishnan/Competitive---Programming-DSA-450/pull/87) in [anupam-kumar-krishnan/Competitive---Programming-DSA-450](https://github.com/anupam-kumar-krishnan/Competitive---Programming-DSA-450)
+5. 💪 Opened PR [#81](https://github.com/anupam-kumar-krishnan/Competitive---Programming-DSA-450/pull/81) in [anupam-kumar-krishnan/Competitive---Programming-DSA-450](https://github.com/anupam-kumar-krishnan/Competitive---Programming-DSA-450)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats

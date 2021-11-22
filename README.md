@@ -16,11 +16,11 @@ I am interested in, Machine Learning and develop Electronics, Robotics and IoT D
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#260](https://github.com/Ileriayo/markdown-badges/issues/260) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-2. 🗣 Commented on [#34](https://github.com/mad003/Sorting-Algos/issues/34) in [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos)
+1. 🎉 Merged PR [#70](https://github.com/pAkalpa/WDD_CW/pull/70) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
+2. ❗️ Opened issue [#260](https://github.com/Ileriayo/markdown-badges/issues/260) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 3. 🗣 Commented on [#34](https://github.com/mad003/Sorting-Algos/issues/34) in [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos)
-4. 💪 Opened PR [#121](https://github.com/zero-to-mastery/Canvaz/pull/121) in [zero-to-mastery/Canvaz](https://github.com/zero-to-mastery/Canvaz)
-5. 💪 Opened PR [#87](https://github.com/anupam-kumar-krishnan/Competitive---Programming-DSA-450/pull/87) in [anupam-kumar-krishnan/Competitive---Programming-DSA-450](https://github.com/anupam-kumar-krishnan/Competitive---Programming-DSA-450)
+4. 🗣 Commented on [#34](https://github.com/mad003/Sorting-Algos/issues/34) in [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos)
+5. 💪 Opened PR [#121](https://github.com/zero-to-mastery/Canvaz/pull/121) in [zero-to-mastery/Canvaz](https://github.com/zero-to-mastery/Canvaz)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats

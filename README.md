@@ -1,10 +1,10 @@
 <h1 align="center">
 	Welcome to Pasindu Akalpa's Profile!
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?color=%23AA18F7&size=60&center=true&vCenter=true&width=1500&height=80&lines=I+am+Inventor;Innovative+Thinker;Always+Learning+New+Things;Love+%E2%9D%A4+Coding;Undergraduate+Software+Engineer+;Love+%E2%9D%A4+Machine+Learning+%F0%9F%A4%96;Love+%E2%9D%A4+Electronics%2C+Robotics+and+IoT">
+	<img src="https://readme-typing-svg.herokuapp.com?color=%23B150E2&size=60&center=true&vCenter=true&width=1500&height=80&lines=I+am+Inventor;Innovative+Thinker;Always+Learning+New+Things;Love+%E2%9D%A4+Coding;Undergraduate+Software+Engineer+;Love+%E2%9D%A4+Machine+Learning+%F0%9F%A4%96;Love+%E2%9D%A4+Electronics%2C+Robotics+and+IoT">
 </p>
 
 ![PasinduAkalpa](https://res.cloudinary.com/pasindua/image/upload/r_11/v1624278078/banner_1500x500_xjbxmk.png)

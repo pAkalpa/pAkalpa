@@ -1,7 +1,7 @@
-<h3 align="center">
+<h1 align="center">
 	Welcome to Pasindu Akalpa's Profile!
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h1>
 
 <p align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?color=%23AA18F7&size=60&center=true&vCenter=true&width=1500&height=80&lines=I+am+Inventor;Innovative+Thinker;Always+Learning+New+Things;Love+%E2%9D%A4+Coding;Undergraduate+Software+Engineer+;Love+%E2%9D%A4+Machine+Learning+%F0%9F%A4%96;Love+%E2%9D%A4+Electronics%2C+Robotics+and+IoT">

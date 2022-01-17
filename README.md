@@ -131,11 +131,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#71](https://github.com/pAkalpa/WDD_CW/pull/71) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
-2. 🎉 Merged PR [#70](https://github.com/pAkalpa/WDD_CW/pull/70) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
-3. ❗️ Opened issue [#260](https://github.com/Ileriayo/markdown-badges/issues/260) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-4. 🗣 Commented on [#34](https://github.com/mad003/Sorting-Algos/issues/34) in [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos)
-5. 🗣 Commented on [#34](https://github.com/mad003/Sorting-Algos/issues/34) in [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos)
+1. 💪 Opened PR [#1](https://github.com/AnupamaNarampanawa/Chefyyy/pull/1) in [AnupamaNarampanawa/Chefyyy](https://github.com/AnupamaNarampanawa/Chefyyy)
+2. 🎉 Merged PR [#77](https://github.com/pAkalpa/WDD_CW/pull/77) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
+3. 🎉 Merged PR [#76](https://github.com/pAkalpa/WDD_CW/pull/76) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
+4. ❌ Closed PR [#71](https://github.com/pAkalpa/WDD_CW/pull/71) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
+5. 🎉 Merged PR [#70](https://github.com/pAkalpa/WDD_CW/pull/70) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats

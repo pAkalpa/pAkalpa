@@ -10,25 +10,25 @@
 ![PasinduAkalpa](https://res.cloudinary.com/pasindua/image/upload/r_11/v1624278078/banner_1500x500_xjbxmk.png)
 
 <p align="center">
-	<a href="https://linkedin.com/in/pasinduakalpa"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/linkedin_ughesz.png"/></a>
+	<a href="https://linkedin.com/in/pasinduakalpa" target="_blank"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/linkedin_ughesz.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://twitter.com/AkalpaPasindu"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/twitter_alk6bs.png"/></a>
+	<a href="https://twitter.com/AkalpaPasindu" target="_blank"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/twitter_alk6bs.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://instagram.com/akalpapasindu"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/instagram_hbtmrq.png"/></a>
+	<a href="https://instagram.com/akalpapasindu" target="_blank"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/instagram_hbtmrq.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://api.whatsapp.com/send?phone=94764597776"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/whatsapp_msjznk.png"/></a>
+	<a href="https://api.whatsapp.com/send?phone=94764597776" target="_blank"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/whatsapp_msjznk.png"/></a>
 </p>
 <p align="center">
 	<a href="mailto:pasinduakalpa1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 	&#8287;&#8287;
-	<a href="https://gitlab.com/pAkalpa"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+	<a href="https://gitlab.com/pAkalpa" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 	&#8287;&#8287;
-	<a href="https://dev.to/pakalpa"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+	<a href="https://dev.to/pakalpa" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/pAkalpa?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  <a href="https://gist.github.com/pAkalpa"><img alt="All Gists" title="All Gists" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Gists-2962FF?style=for-the-badge&logoColor=white&logo=gist"/></a>
+  <a href="https://github.com/pAkalpa?tab=repositories&sort=stargazers" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://gist.github.com/pAkalpa" target="_blank"><img alt="All Gists" title="All Gists" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Gists-2962FF?style=for-the-badge&logoColor=white&logo=gist"/></a>
 </p>
 
 ## 🛠️ My favorite Tools

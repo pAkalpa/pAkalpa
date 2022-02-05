@@ -10,7 +10,7 @@
 ![PasinduAkalpa](https://res.cloudinary.com/pasindua/image/upload/r_11/v1624278078/banner_1500x500_xjbxmk.png)
 
 <p align="center">
-	<a href="https://linkedin.com/in/pasindu-akalpa-1043b1192/"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/linkedin_ughesz.png"/></a>
+	<a href="www.linkedin.com/in/pasinduakalpa"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/linkedin_ughesz.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
 	<a href="https://twitter.com/AkalpaPasindu"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/twitter_alk6bs.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;

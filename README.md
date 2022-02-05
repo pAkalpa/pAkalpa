@@ -44,6 +44,7 @@
 	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Ajava"><img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Amd"><img alt="MarkDown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3ApAkalpa+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 	<a href="https://github.com/search?q=user%3ApAkalpa+language%3AR"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"></a>

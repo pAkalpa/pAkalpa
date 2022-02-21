@@ -132,8 +132,8 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/pAkalpa/WDD_CW/pull/78) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
-2. 💪 Opened PR [#1](https://github.com/AnupamaNarampanawa/Chefyyy/pull/1) in [AnupamaNarampanawa/Chefyyy](https://github.com/AnupamaNarampanawa/Chefyyy)
+1. 🎉 Merged PR [#79](https://github.com/pAkalpa/WDD_CW/pull/79) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
+2. 🎉 Merged PR [#78](https://github.com/pAkalpa/WDD_CW/pull/78) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
 3. 🎉 Merged PR [#77](https://github.com/pAkalpa/WDD_CW/pull/77) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
 4. 🎉 Merged PR [#76](https://github.com/pAkalpa/WDD_CW/pull/76) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
 5. 🎉 Merged PR [#70](https://github.com/pAkalpa/WDD_CW/pull/70) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)

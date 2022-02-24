@@ -141,12 +141,16 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/pAkalpa/pAkalpa">
+<p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pAkalpa&theme=jolly&langs_count=5" />
-</a>
+</p>
 
-<a href="https://github.com/pAkalpa/pAkalpa">
+<p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=pAkalpa&theme=jolly&show_icons=true&line_height=27&count_private=true" alt="P.A's GitHub Stats" />
-</a>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pAkalpa&theme=jolly" />
+</p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pAkalpa&langs_count=5)](https://github.com/pAkalpa/github-readme-stats)
 ![P.A's GitHub stats](https://github-readme-stats.vercel.app/api?username=pAkalpa&theme=jolly&show_icons=true) -->

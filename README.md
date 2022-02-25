@@ -154,7 +154,3 @@
 </p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pAkalpa&langs_count=5)](https://github.com/pAkalpa/github-readme-stats)
 ![P.A's GitHub stats](https://github-readme-stats.vercel.app/api?username=pAkalpa&theme=jolly&show_icons=true) -->
-
-<p align="center">
- <img src="https://res.cloudinary.com/pasindua/image/upload/v1645813645/WaveGIF.gif"/>
-</p>

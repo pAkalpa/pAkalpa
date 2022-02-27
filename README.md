@@ -18,6 +18,11 @@
 	&#8287;&#8287;&#8287;&#8287;&#8287;
 	<a href="https://api.whatsapp.com/send?phone=94764597776" target="_blank"><img src="https://res.cloudinary.com/pasindua/image/upload/v1640992394/GitHub%20Social/whatsapp_msjznk.png"/></a>
 </p>
+<h2 align="center">Profile Views</h2>
+<p align="center">
+	<img src="https://profile-counter.glitch.me/{pAkalpa}/count.svg">
+</p>
+
 <p align="center">
 	<a href="mailto:pasinduakalpa1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 	&#8287;&#8287;

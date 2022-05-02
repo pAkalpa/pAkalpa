@@ -139,11 +139,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/CyberCubeIIT/Chefyyy-Mobile_App/pull/26) in [CyberCubeIIT/Chefyyy-Mobile_App](https://github.com/CyberCubeIIT/Chefyyy-Mobile_App)
-2. 💪 Opened PR [#26](https://github.com/CyberCubeIIT/Chefyyy-Mobile_App/pull/26) in [CyberCubeIIT/Chefyyy-Mobile_App](https://github.com/CyberCubeIIT/Chefyyy-Mobile_App)
-3. 🎉 Merged PR [#23](https://github.com/CyberCubeIIT/Chefyyy-Mobile_App/pull/23) in [CyberCubeIIT/Chefyyy-Mobile_App](https://github.com/CyberCubeIIT/Chefyyy-Mobile_App)
-4. 🎉 Merged PR [#25](https://github.com/CyberCubeIIT/Chefyyy-Mobile_App/pull/25) in [CyberCubeIIT/Chefyyy-Mobile_App](https://github.com/CyberCubeIIT/Chefyyy-Mobile_App)
-5. 🎉 Merged PR [#79](https://github.com/pAkalpa/WDD_CW/pull/79) in [pAkalpa/WDD_CW](https://github.com/pAkalpa/WDD_CW)
+1. 🎉 Merged PR [#1](https://github.com/CyberCubeIIT/Chefyyy-Mobile_Backend/pull/1) in [CyberCubeIIT/Chefyyy-Mobile_Backend](https://github.com/CyberCubeIIT/Chefyyy-Mobile_Backend)
+2. 🎉 Merged PR [#2](https://github.com/CyberCubeIIT/Chefyyy-Mobile_Backend/pull/2) in [CyberCubeIIT/Chefyyy-Mobile_Backend](https://github.com/CyberCubeIIT/Chefyyy-Mobile_Backend)
+3. 🎉 Merged PR [#26](https://github.com/CyberCubeIIT/Chefyyy-Mobile_App/pull/26) in [CyberCubeIIT/Chefyyy-Mobile_App](https://github.com/CyberCubeIIT/Chefyyy-Mobile_App)
+4. 💪 Opened PR [#26](https://github.com/CyberCubeIIT/Chefyyy-Mobile_App/pull/26) in [CyberCubeIIT/Chefyyy-Mobile_App](https://github.com/CyberCubeIIT/Chefyyy-Mobile_App)
+5. 🎉 Merged PR [#23](https://github.com/CyberCubeIIT/Chefyyy-Mobile_App/pull/23) in [CyberCubeIIT/Chefyyy-Mobile_App](https://github.com/CyberCubeIIT/Chefyyy-Mobile_App)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats

@@ -139,11 +139,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8937](https://github.com/darkreader/darkreader/issues/8937) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-2. 🗣 Commented on [#1](https://github.com/judygab/nextjs-searchapp/issues/1) in [judygab/nextjs-searchapp](https://github.com/judygab/nextjs-searchapp)
-3. ❗️ Closed issue [#1](https://github.com/judygab/nextjs-searchapp/issues/1) in [judygab/nextjs-searchapp](https://github.com/judygab/nextjs-searchapp)
-4. 🗣 Commented on [#1](https://github.com/judygab/nextjs-searchapp/issues/1) in [judygab/nextjs-searchapp](https://github.com/judygab/nextjs-searchapp)
-5. ❗️ Opened issue [#1](https://github.com/judygab/nextjs-searchapp/issues/1) in [judygab/nextjs-searchapp](https://github.com/judygab/nextjs-searchapp)
+1. 🗣 Commented on [#8937](https://github.com/darkreader/darkreader/issues/8937) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+2. ❗️ Reopened issue [#8937](https://github.com/darkreader/darkreader/issues/8937) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+3. ❗️ Closed issue [#8937](https://github.com/darkreader/darkreader/issues/8937) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+4. ❗️ Opened issue [#8937](https://github.com/darkreader/darkreader/issues/8937) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+5. 🗣 Commented on [#1](https://github.com/judygab/nextjs-searchapp/issues/1) in [judygab/nextjs-searchapp](https://github.com/judygab/nextjs-searchapp)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats

@@ -151,11 +151,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/pAkalpa/pAkalpa/pull/2) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
-2. 💪 Opened PR [#2](https://github.com/pAkalpa/pAkalpa/pull/2) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
-3. 🗣 Commented on [#80](https://github.com/jamesgeorge007/github-activity-readme/issues/80) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🎉 Merged PR [#1](https://github.com/pAkalpa/pAkalpa/pull/1) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
-5. 🗣 Commented on [#357](https://github.com/Ileriayo/markdown-badges/issues/357) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+1. 🎉 Merged PR [#3](https://github.com/pAkalpa/pAkalpa/pull/3) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
+2. 🎉 Merged PR [#2](https://github.com/pAkalpa/pAkalpa/pull/2) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
+3. 💪 Opened PR [#2](https://github.com/pAkalpa/pAkalpa/pull/2) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
+4. 🗣 Commented on [#80](https://github.com/jamesgeorge007/github-activity-readme/issues/80) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🎉 Merged PR [#1](https://github.com/pAkalpa/pAkalpa/pull/1) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats

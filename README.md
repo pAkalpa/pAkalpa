@@ -151,11 +151,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/pAkalpa/pAkalpa/pull/3) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
-2. 🎉 Merged PR [#2](https://github.com/pAkalpa/pAkalpa/pull/2) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
-3. 💪 Opened PR [#2](https://github.com/pAkalpa/pAkalpa/pull/2) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
-4. 🗣 Commented on [#80](https://github.com/jamesgeorge007/github-activity-readme/issues/80) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🎉 Merged PR [#1](https://github.com/pAkalpa/pAkalpa/pull/1) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
+1. 💪 Opened PR [#7864](https://github.com/simple-icons/simple-icons/pull/7864) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#6263](https://github.com/EbookFoundation/free-programming-books/issues/6263) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+3. 🗣 Commented on [#7856](https://github.com/simple-icons/simple-icons/issues/7856) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 💪 Opened PR [#7856](https://github.com/simple-icons/simple-icons/pull/7856) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🎉 Merged PR [#3](https://github.com/pAkalpa/pAkalpa/pull/3) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats

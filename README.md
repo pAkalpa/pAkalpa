@@ -151,11 +151,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7894](https://github.com/simple-icons/simple-icons/issues/7894) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🗣 Commented on [#5536](https://github.com/simple-icons/simple-icons/issues/5536) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#4944](https://github.com/BOINC/boinc/issues/4944) in [BOINC/boinc](https://github.com/BOINC/boinc)
-4. 🗣 Commented on [#4944](https://github.com/BOINC/boinc/issues/4944) in [BOINC/boinc](https://github.com/BOINC/boinc)
-5. 💪 Opened PR [#4945](https://github.com/BOINC/boinc/pull/4945) in [BOINC/boinc](https://github.com/BOINC/boinc)
+1. 💪 Opened PR [#7915](https://github.com/simple-icons/simple-icons/pull/7915) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 💪 Opened PR [#7914](https://github.com/simple-icons/simple-icons/pull/7914) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#4949](https://github.com/BOINC/boinc/issues/4949) in [BOINC/boinc](https://github.com/BOINC/boinc)
+4. 💪 Opened PR [#4949](https://github.com/BOINC/boinc/pull/4949) in [BOINC/boinc](https://github.com/BOINC/boinc)
+5. 🗣 Commented on [#7894](https://github.com/simple-icons/simple-icons/issues/7894) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats

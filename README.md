@@ -161,11 +161,11 @@
 ## &#x1f4c8; My GitHub Stats
 
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pAkalpa&theme=jolly&langs_count=5" />
+	<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pAkalpa&theme=jolly&langs_count=5" />
 </p>
 
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=pAkalpa&theme=jolly&show_icons=true&line_height=27&count_private=true" alt="P.A's GitHub Stats" />
+	<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pAkalpa&theme=jolly&show_icons=true&line_height=27&count_private=true" alt="P.A's GitHub Stats" />
 </p>
 
 <p align="center">

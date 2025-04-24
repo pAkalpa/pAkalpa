@@ -173,10 +173,10 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/pAkalpa/pAkalpa/pull/4) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
-2. 🎉 Merged PR [#7](https://github.com/pAkalpa/pAkalpa/pull/7) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
-3. 🎉 Merged PR [#6](https://github.com/pAkalpa/pAkalpa/pull/6) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
-4. 💪 Opened PR [#7915](https://github.com/simple-icons/simple-icons/pull/7915) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🎉 Merged PR [#8](https://github.com/pAkalpa/pAkalpa/pull/8) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
+2. 🎉 Merged PR [#4](https://github.com/pAkalpa/pAkalpa/pull/4) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
+3. 🎉 Merged PR [#7](https://github.com/pAkalpa/pAkalpa/pull/7) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
+4. 🎉 Merged PR [#6](https://github.com/pAkalpa/pAkalpa/pull/6) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
 5. 💪 Opened PR [#7914](https://github.com/simple-icons/simple-icons/pull/7914) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 

@@ -173,7 +173,7 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/prappo/plugkit/pull/1) in [prappo/plugkit](https://github.com/prappo/plugkit)
+1. 🚀 Published release [pbe:v0.30.4 docker image](https://github.com/pAkalpa/Pocketbase_extended/releases/tag/v0.30.4) in [pAkalpa/Pocketbase_extended](https://github.com/pAkalpa/Pocketbase_extended)
 2. 🎉 Merged PR [#4](https://github.com/pAkalpa/pAkalpa/pull/4) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
 3. 🎉 Merged PR [#7](https://github.com/pAkalpa/pAkalpa/pull/7) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
 4. 🎉 Merged PR [#6](https://github.com/pAkalpa/pAkalpa/pull/6) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)

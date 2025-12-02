@@ -173,7 +173,7 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [pbe:v0.30.4 docker image](https://github.com/pAkalpa/Pocketbase_extended/releases/tag/v0.30.4) in [pAkalpa/Pocketbase_extended](https://github.com/pAkalpa/Pocketbase_extended)
+1. ❌ Merged PR [#621](undefined) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 2. 🎉 Merged PR [#4](https://github.com/pAkalpa/pAkalpa/pull/4) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
 3. 🎉 Merged PR [#7](https://github.com/pAkalpa/pAkalpa/pull/7) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
 4. 🎉 Merged PR [#6](https://github.com/pAkalpa/pAkalpa/pull/6) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)

@@ -173,11 +173,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#621](undefined) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-2. 🎉 Merged PR [#4](https://github.com/pAkalpa/pAkalpa/pull/4) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
-3. 🎉 Merged PR [#7](https://github.com/pAkalpa/pAkalpa/pull/7) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
-4. 🎉 Merged PR [#6](https://github.com/pAkalpa/pAkalpa/pull/6) in [pAkalpa/pAkalpa](https://github.com/pAkalpa/pAkalpa)
-5. 💪 Opened PR [#7914](https://github.com/simple-icons/simple-icons/pull/7914) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. ❌ Merged PR [#1](undefined) in [pAkalpa/oe-module-react-custom-skeleton](https://github.com/pAkalpa/oe-module-react-custom-skeleton)
+2. 💪 Opened PR [#1](undefined) in [pAkalpa/oe-module-react-custom-skeleton](https://github.com/pAkalpa/oe-module-react-custom-skeleton)
+3. ❌ Closed PR [#5](undefined) in [adunsulag/oe-module-custom-skeleton](https://github.com/adunsulag/oe-module-custom-skeleton)
+4. 💪 Opened PR [#5](undefined) in [adunsulag/oe-module-custom-skeleton](https://github.com/adunsulag/oe-module-custom-skeleton)
+5. ❌ Merged PR [#621](undefined) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats

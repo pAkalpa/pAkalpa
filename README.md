@@ -173,8 +173,8 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/pAkalpa/oe-module-react-custom-skeleton/pull/1) in [pAkalpa/oe-module-react-custom-skeleton](https://github.com/pAkalpa/oe-module-react-custom-skeleton)
-2. 💪 Opened PR [#1](https://github.com/pAkalpa/oe-module-react-custom-skeleton/pull/1) in [pAkalpa/oe-module-react-custom-skeleton](https://github.com/pAkalpa/oe-module-react-custom-skeleton)
+1. 🎉 Merged PR [#1](https://github.com/pAkalpa/mise-ovhcloud-cli/pull/1) in [pAkalpa/mise-ovhcloud-cli](https://github.com/pAkalpa/mise-ovhcloud-cli)
+2. 💪 Opened PR [#1](https://github.com/pAkalpa/mise-ovhcloud-cli/pull/1) in [pAkalpa/mise-ovhcloud-cli](https://github.com/pAkalpa/mise-ovhcloud-cli)
 3. ❌ Closed PR [#5](https://github.com/adunsulag/oe-module-custom-skeleton/pull/5) in [adunsulag/oe-module-custom-skeleton](https://github.com/adunsulag/oe-module-custom-skeleton)
 4. 💪 Opened PR [#5](https://github.com/adunsulag/oe-module-custom-skeleton/pull/5) in [adunsulag/oe-module-custom-skeleton](https://github.com/adunsulag/oe-module-custom-skeleton)
 5. ❌ Merged PR [#621](undefined) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)

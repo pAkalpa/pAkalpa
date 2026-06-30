@@ -173,8 +173,8 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/pAkalpa/mise-ovhcloud-cli/releases/tag/v1.0.0) in [pAkalpa/mise-ovhcloud-cli](https://github.com/pAkalpa/mise-ovhcloud-cli)
-2. 🎉 Merged PR [#1](https://github.com/pAkalpa/mise-ovhcloud-cli/pull/1) in [pAkalpa/mise-ovhcloud-cli](https://github.com/pAkalpa/mise-ovhcloud-cli)
+1. ℹ️ Labeled issue [#5735](https://github.com/supabase/cli/issues/5735) in [supabase/cli](https://github.com/supabase/cli)
+2. ❗ Opened issue [#5735](https://github.com/supabase/cli/issues/5735) in [supabase/cli](https://github.com/supabase/cli)
 3. 💪 Opened PR [#1](https://github.com/pAkalpa/mise-ovhcloud-cli/pull/1) in [pAkalpa/mise-ovhcloud-cli](https://github.com/pAkalpa/mise-ovhcloud-cli)
 4. 💪 Opened PR [#5](https://github.com/adunsulag/oe-module-custom-skeleton/pull/5) in [adunsulag/oe-module-custom-skeleton](https://github.com/adunsulag/oe-module-custom-skeleton)
 5. ❌ Merged PR [#621](undefined) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
